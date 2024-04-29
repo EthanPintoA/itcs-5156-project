@@ -4,6 +4,8 @@
 
   - Commonly used Machine Learning dependencies accessible through pip.
 
+  - **Note:** There may be other dependencies not listed at the top.
+
 - Download images/datasets from:
 
   - [Animal Image Dataset (90 Different Animals)](https://www.kaggle.com/datasets/iamsouravbanerjee/animal-image-dataset-90-different-animals/data)
